@@ -15,5 +15,15 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+Moodle AI (CNN,LSTM,BRNN)
+https://colab.research.google.com/drive/1i3nrwOpVqSMaJcxmQiJw0ZWFyUjhkelI?usp=sharing
+
+
+
 BACKEND server
 https://github.com/AntoniusFekryAbdo/Deep-Learning-System-For-Discovering-Self-Driving-Intrusions
+
+
+
+Video Mobile Application
+https://drive.google.com/file/d/1-Cxb1WiUJeqjYk5_mhAEwwtlEgzimCto/view?usp=sharing
