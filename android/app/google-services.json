@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389387411447",
+    "project_id": "self-driving-intrusions",
+    "storage_bucket": "self-driving-intrusions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389387411447:android:2ff2517683f9792a0f98f2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hq91sWvZHZCMLAUaKIPB_D8lcI1ixgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
